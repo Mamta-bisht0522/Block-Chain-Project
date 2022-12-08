@@ -1,0 +1,25 @@
+{
+  "name": "block-chain-project",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mamta-bisht0522/Block-Chain-Project.git"
+  },
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mamta-bisht0522/Block-Chain-Project/issues"
+  },
+  "homepage": "https://github.com/Mamta-bisht0522/Block-Chain-Project#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
